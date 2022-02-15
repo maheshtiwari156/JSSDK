@@ -3,7 +3,7 @@
 
 <head>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" data-app-id="48076210176-6cy124u8Ia0OTOTt8ahCXg" src="https://assets.yammer.com/assets/platform_js_sdk.js"></script>
+    <script type="text/javascript" data-app-id="kzAEnwYQhHOj217ZW96A" src="https://assets.yammer.com/assets/platform_js_sdk.js"></script>
 </head>
 
 <body>
