@@ -3,7 +3,7 @@
         <script language="JavaScript" type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
         <script language="JavaScript" type="text/javascript" src="/js/jquery-ui-personalized-1.5.2.packed.js"></script>
         <script language="JavaScript" type="text/javascript" src="/js/sprinkle.js"></script>
-        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>$(document).ready(function(){
             console.log("asdad");
             $.ajax({
