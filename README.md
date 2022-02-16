@@ -11,7 +11,7 @@
             type : 'GET',
             headers: {
                 "accept": "application/json;odata=minimalmetadata",
-                "Authorization": "Bearer" +"48076210176-JMswGJqMJ2d0eXHPnRN5A"
+                "Authorization": "Bearer 48076210176-JMswGJqMJ2d0eXHPnRN5A"
             },
             success : function(data) {              
                 console.log(data)
