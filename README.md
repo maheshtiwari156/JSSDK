@@ -7,11 +7,11 @@
         <script>$(document).ready(function(){
             console.log("asdad");
             $.ajax({
-            url : 'https://www.yammer.com/api/v1/users/by_email.json?email=mahesh@kepl.tk',
+            url : 'https://www.yammer.com/api/v1/users/by_email.json?email=mahesh@cnx21.onmicrosoft.com',
             type : 'GET',
             headers: {
                 "accept": "application/json;odata=minimalmetadata",
-                "Authorization": "Bearer"+"5984245-UVtNlgmA8lEhvsNiSUbHag"
+                "Authorization": "Bearer"+"48076210176-JMswGJqMJ2d0eXHPnRN5A"
             },
             success : function(data) {              
                 console.log(data)
